@@ -1,4 +1,4 @@
-nithinemmadishetti25_db_user,WtFlcZfBZWadBau9,mongodb+srv://nithinemmadishetti25_db_user:<db_password>@vehicle-proj.yyfyyfz.mongodb.net/?appName=vehicle-proj
+
 1. Create project template by executing template.py file
 2. Write the code on setup.py and pyproject.toml file to import local packages
    >> Find more about "setup.py and pyproject.toml" at crashcourse.txt
