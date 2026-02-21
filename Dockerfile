@@ -3,6 +3,8 @@ From python:3.10-slim-buster
 # Set the working directory
 WORKDIR /app
 
+COPY . /app
+
 RUN pip install -r requirements.txt
 
 # Expose the port FastAPI will run on
