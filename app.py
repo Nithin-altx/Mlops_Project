@@ -58,6 +58,7 @@ class DataForm:
         self.Age = form.get("Age")
         self.Driving_License = form.get("Driving_License")
         self.Region_Code = form.get("Region_Code")
+        
         self.Previously_Insured = form.get("Previously_Insured")
         self.Annual_Premium = form.get("Annual_Premium")
         self.Policy_Sales_Channel = form.get("Policy_Sales_Channel")
