@@ -32,7 +32,6 @@ class DataIngestion:
 
         except Exception as e:
             raise MyException(e,sys)
-
     
     def split_data_as_train_test(self,dataframe:pd.DataFrame) ->None:
         """
